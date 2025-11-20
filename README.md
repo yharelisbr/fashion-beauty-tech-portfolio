@@ -11,8 +11,6 @@ My work spans:
 - Merchandising & consumer storytelling  
 - UX-focused digital experiences  
 
----
-
 ## ✨ Featured Projects
 
 ### Fashion Trend Dashboard — Python, Pandas, Matplotlib
