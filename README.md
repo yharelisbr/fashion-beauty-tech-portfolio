@@ -11,7 +11,7 @@ My work spans:
 - Merchandising & consumer storytelling  
 - UX-focused digital experiences  
 
-## ✨ Featured Projects
+##  Featured Projects
 
 ### Fashion Trend Dashboard — Python, Pandas, Matplotlib
 A full data analytics tool visualizing fashion trend scores across categories including apparel, color, and accessories.  
