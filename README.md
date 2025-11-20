@@ -1,4 +1,4 @@
-# 🌸 Fashion & Beauty Tech Portfolio
+# Fashion & Beauty Tech Portfolio
 ### By Yharelis Ribic — Digital Strategy, Data Analytics & Fashion/Beauty Technology
 
 Welcome to my curated portfolio of **fashion-tech, beauty marketing, digital strategy, and data analytics projects**.  
@@ -15,14 +15,14 @@ My work spans:
 
 ## ✨ Featured Projects
 
-### 🛍️ Fashion Trend Dashboard — Python, Pandas, Matplotlib
+### Fashion Trend Dashboard — Python, Pandas, Matplotlib
 A full data analytics tool visualizing fashion trend scores across categories including apparel, color, and accessories.  
 Includes automated HTML reporting and insight-driven visuals.  
 **Folder:** `/fashion-trend-dashboard`
 
 ---
 
-### 🌐 SCIP Website — Co-Developer
+### SCIP Website — Co-Developer
 Co-created and maintained the official SCIP website using Wix.  
 Improved UI layout, navigation, and brand-aligned page design.  
 **Folder:** `/scip-website`  
@@ -30,28 +30,28 @@ Live Site: https://www.scipgloballeaders.org
 
 ---
 
-### 💄 Good Molecules Merchandising Project
+### Good Molecules Merchandising Project
 A beauty-marketing and merchandising project created as part of the Good Molecules University Ambassador Program.  
 Includes product positioning, influencer mapping, and digital strategy assets.  
 **Folder:** `/good-molecules-merch`
 
 ---
 
-### 🎮 Digital Ethics Board Game — Genially
+### Digital Ethics Board Game — Genially
 Interactive board game designed for ethical decision-making exploration.  
 Features narrative storytelling and UI elements.  
 **Folder:** `/digital-ethics-game`
 
 ---
 
-### 🖼️ MET Twine Narrative Game
+###  MET Twine Narrative Game
 Interactive narrative game inspired by the Metropolitan Museum of Art created with Twine.  
 Uses branching storyline logic and immersive design.  
 **Folder:** `/twine-met-game`
 
 ---
 
-## 🌟 About Me
+## About Me
 I’m a Computer Science + Digital Technology & Emerging Media student at Fordham University, focused on building digital tools and experiences at the intersection of **fashion, beauty, and technology**.
 
 My interests include:
