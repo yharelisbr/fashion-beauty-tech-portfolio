@@ -63,4 +63,3 @@ My interests include:
 
 ## 🔗 Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/yharelis-ribic-4b12042a2/  
-**GitHub:** https://github.com/yharelisbr  
