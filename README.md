@@ -13,13 +13,6 @@ My work spans:
 
 ##  Featured Projects
 
-### Fashion Trend Dashboard — Python, Pandas, Matplotlib
-A full data analytics tool visualizing fashion trend scores across categories including apparel, color, and accessories.  
-Includes automated HTML reporting and insight-driven visuals.  
-**Folder:** `/fashion-trend-dashboard`
-
----
-
 ### SCIP Website — Co-Developer
 Co-created and maintained the official SCIP website using Wix.  
 Improved UI layout, navigation, and brand-aligned page design.  
